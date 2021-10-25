@@ -1791,6 +1791,7 @@ body.is-preload #footer {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
+  margin-bottom: 10%;
 }
 .videoWrapper iframe {
   position: absolute;
