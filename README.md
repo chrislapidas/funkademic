@@ -1,2 +1,0 @@
-# funkademic
-www.funkademic.org
