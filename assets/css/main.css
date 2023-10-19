@@ -184,7 +184,7 @@ html {
 
 @media screen and (max-width: 1000px) {
   html {
-    background-image: url("images/overlay.png"), url("../../images/trina1.jpeg");
+    background-image: url("images/overlay.png"), url("../../images/4.png");
     background-position: center center;
   }
 }
