@@ -189,7 +189,7 @@ html {
   }
 
   footer,
-  header {
+  .topHeader {
     background-color: rgba(0, 0, 0, 0.7);
   }
 }
