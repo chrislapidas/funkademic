@@ -188,7 +188,8 @@ html {
     background-position: center center;
   }
 
-  footer {
+  footer,
+  header {
     background-color: rgba(0, 0, 0, 0.7);
   }
 }
