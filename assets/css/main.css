@@ -2407,7 +2407,7 @@ ol li {
 
 ul {
   list-style: disc;
-  margin: 0 0 2em 0;
+  /* margin: 0 0 2em 0; */
   padding-left: 1em;
 }
 
@@ -2444,7 +2444,7 @@ ul.icons {
 
 ul.icons li {
   display: inline-block;
-  padding: 0 1.5em 0 0;
+  /* padding: 0 1.5em 0 0; */
 }
 
 ul.icons li a {
@@ -2970,7 +2970,8 @@ button:disabled,
 }
 
 #header header a {
-  color: inherit;
+  /* color: inherit; */
+  color: #ffffff;
 }
 
 #header header a:hover {
@@ -3013,7 +3014,7 @@ button:disabled,
 /* Footer */
 
 #footer {
-  min-height: 100vh;
+  /* min-height: 100vh; */
   padding: 0 0 12em 0;
   position: relative;
   text-align: center;
@@ -3046,7 +3047,8 @@ button:disabled,
 }
 
 #footer footer a {
-  color: inherit;
+  /* color: inherit; */
+  color: #ffffff;
 }
 
 #footer footer a:hover {
